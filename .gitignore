@@ -16,6 +16,7 @@ vendor/
 
 # release dir
 release/
+dist/
 
 # ide
 .vscode/
